@@ -676,7 +676,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       fields_8: 929602411
-      fields_20: -383847412
       fields_9: 12128797
       fields_25: -2007196572
       fields_24: -980684852
@@ -696,6 +695,7 @@ TextureImporter:
       fields_0: -1017195387
       fields_7: -1627472608
       fields_6: 1618724056
+      fields_20: -383847412
       fields_14: 585904074
       fields_12: 1652894231
       fields_15: 635923669
